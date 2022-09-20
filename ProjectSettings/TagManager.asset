@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Asteroid
+  - Food
+  - Hands
+  - Ground
   layers:
   - Default
   - TransparentFX
@@ -12,12 +15,12 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - XROrigin
+  - Grabbable
+  - Player
+  - Button
+  - Paint
+  - BrushTip
   - 
   - 
   - 
